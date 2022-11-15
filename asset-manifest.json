@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/My-Hotstar-App/static/css/main.e209e8a8.css",
-    "main.js": "/My-Hotstar-App/static/js/main.130a0d8e.js",
+    "main.js": "/My-Hotstar-App/static/js/main.ff28f1af.js",
     "static/js/787.d4845402.chunk.js": "/My-Hotstar-App/static/js/787.d4845402.chunk.js",
     "static/media/poster5.jpg": "/My-Hotstar-App/static/media/poster5.8c9c38cbe65035a569f6.jpg",
     "static/media/poster6.webp": "/My-Hotstar-App/static/media/poster6.3075d28d616b0e6856c9.webp",
     "static/media/poster4.jpg": "/My-Hotstar-App/static/media/poster4.5a5ae483bd399a46fc37.jpg",
     "index.html": "/My-Hotstar-App/index.html",
     "main.e209e8a8.css.map": "/My-Hotstar-App/static/css/main.e209e8a8.css.map",
-    "main.130a0d8e.js.map": "/My-Hotstar-App/static/js/main.130a0d8e.js.map",
+    "main.ff28f1af.js.map": "/My-Hotstar-App/static/js/main.ff28f1af.js.map",
     "787.d4845402.chunk.js.map": "/My-Hotstar-App/static/js/787.d4845402.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e209e8a8.css",
-    "static/js/main.130a0d8e.js"
+    "static/js/main.ff28f1af.js"
   ]
 }
