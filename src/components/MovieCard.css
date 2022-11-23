@@ -1,0 +1,11 @@
+.movie-name{
+    text-align: center;
+}
+.popular-movie-title{
+    margin-top: 0;
+}
+
+.card-action{
+    justify-content: center;
+    /* text-align: center; */
+}
